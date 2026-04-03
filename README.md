@@ -53,7 +53,6 @@ Developed SQL queries to calculate:
 ---
 
 ## 📂 Project Files
-- Dataset (Zomato Data)
 - SQL Queries File
 - Excel Working File
 - Power BI Dashboard (.pbix)
