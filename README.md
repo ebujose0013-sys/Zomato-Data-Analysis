@@ -79,6 +79,4 @@ The analysis helps:
 
 ---
 
-## ⚠️ Disclaimer
-This project is for learning and analytical purposes o## 🔗 Author
-Created by [Your Name] as part of a Business Analyst / Data Analytics portfolio.
+
